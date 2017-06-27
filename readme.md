@@ -1,6 +1,6 @@
 # ACMI Historic Film Screening Data
 
-This repo contains a single TSV file listing dates and times of film screenings at the Australian Centre for the Moving Image from 1st April 2004 to 24th January 2016.
+This repo contains a single TSV file listing dates and times of film screenings at the Australian Centre for the Moving Image from 17 November 2002 to 24th January 2016.
 
 # Fields in the dataset
 
